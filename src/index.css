@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Heebo', 'Noto Sans Hebrew', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+
+  input[type="date"] {
+    direction: rtl;
+    text-align: right;
+  }
+}

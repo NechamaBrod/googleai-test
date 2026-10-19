@@ -1,0 +1,6 @@
+{
+  "name": "גמ״ח שמחה וחסד - השאלת ציוד",
+  "description": "מערכת דיגיטלית להשאלת ציוד לאירועים וליולדות בעברית: קטלוג פריטים, טפסי השאלה ומערכת ניהול.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
